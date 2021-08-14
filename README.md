@@ -3,3 +3,4 @@
 - Docker on Linux OS (for Windows, we had to download Kernel)
 - Used NASA's openAPI to create a page in my local domain
 - Used Visual Studio to write down code
+- Command prompt
